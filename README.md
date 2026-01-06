@@ -1,11 +1,7 @@
----
-title: Hate Speech Detector
-emoji: 🚨
-colorFrom: red
-colorTo: purple
-sdk: docker
-pinned: false
----
+
+
+## 🔗 Live Link : 
+https://huggingface.co/spaces/shuklaRishabh/hate_speech_detector
 
 # 🚨 Hate Speech Detection System
 
@@ -27,3 +23,5 @@ Model is hosted on Hugging Face Hub and loaded dynamically at runtime.
 
 ## 📌 Usage
 Enter text in the input box and click **Analyze** to see predictions with confidence scores.
+
+
